@@ -16,3 +16,4 @@ This project builds a machine learning model to predict customer churn based on 
 - `scikit-learn` for machine learning
 - `pandas` and `numpy` for data handling
 - `matplotlib` for visualization
+ 

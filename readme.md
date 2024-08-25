@@ -10,7 +10,7 @@ This project builds a machine learning model to predict customer churn based on 
 
 ## Installation
 1. Install dependencies: `pip install -r requirements.txt`
-2. Run `python train.py --data customer_data.csv --output model.pkl`
+2. Run `python train.py --data customer_data.csv --output model.pkl` 
 
 ## Technologies Used
 - `scikit-learn` for machine learning

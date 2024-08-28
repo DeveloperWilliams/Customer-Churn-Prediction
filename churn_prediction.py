@@ -24,6 +24,6 @@ class ChurnPredictor:
 
 # Example usage
 if __name__ == "__main__":
-    churn_predictor = ChurnPredictor("customer_data.csv")
+    churn_predictor = ChurnPredictor("customer_data.csv") # Path to the dataset
     churn_predictor.preprocess_data()
     churn_predictor.train_model()
